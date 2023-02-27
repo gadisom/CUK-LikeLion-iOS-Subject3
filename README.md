@@ -1,3 +1,1 @@
-# CUK-LikeLion-iOS-Subject3
-
-iOS 과제 3 제출 저장소입니다.
+iOS 교육과정 과제 3을 위한 저장소입니다.
